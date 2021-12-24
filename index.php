@@ -58,7 +58,7 @@
                                 <thead>
                                     <tr>
                                         <th>First Name</th>
-                                        <th>Las Name</th>
+                                        <th>Last Name</th>
                                         <th>Middle Name</th>
                                         <th>Address</th>
                                         <th>Contact</th>
